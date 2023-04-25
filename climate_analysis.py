@@ -1,3 +1,5 @@
+"""One ring to find them."""
+
 import sys
 import temp_conversion
 import signal
